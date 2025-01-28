@@ -1,0 +1,13 @@
+# Ignorar node_modules (para projetos com npm/yarn)
+node_modules/
+
+# Ignorar arquivos de build
+dist/
+build/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretórios do sistema
+.DS_Store
+Thumbs.db
